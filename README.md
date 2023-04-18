@@ -12,3 +12,16 @@ beinhaltet die folgenden Autobahnen:
 - Bundesautobahn 24, von Westen nach Osten
 
 Die Start- und Endpunkte sind unsauber.
+
+### Version 1.1
+beinhaltet zusätzlich die folgenden Autobahnen:
+- Bundesautobahn 21, von Norden nach Süden
+- Bundesautobahn 21, von Süden nach Norden
+- Bundesautobahn 25, von Osten nach Westen
+- Bundesautobahn 25, von Westen nach Osten
+- Bundesautobahn 27, von Norden nach Süden
+- Bundesautobahn 27, von Süden nach Norden
+- Bundesautobahn 25, von Osten nach Westen
+- Bundesautobahn 25, von Westen nach Osten
+
+Die Start- und Endpunkte sind unsauber.
