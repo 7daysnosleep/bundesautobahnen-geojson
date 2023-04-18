@@ -14,7 +14,7 @@ beinhaltet die folgenden Autobahnen:
 Die Start- und Endpunkte sind unsauber.
 
 ### Version 1.1
-beinhaltet zusätzlich die folgenden Autobahnen:
+beinhaltet die folgenden Autobahnen:
 - Bundesautobahn 21, von Norden nach Süden
 - Bundesautobahn 21, von Süden nach Norden
 - Bundesautobahn 25, von Osten nach Westen
